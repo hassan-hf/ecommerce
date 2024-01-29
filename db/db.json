@@ -1,0 +1,37 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Samsung m40",
+            "color":"Black",
+            "brand":"Mobile",
+            "price":10000,
+            "category":"Samsung",
+            "photo":"https://help.rangeme.com/hc/article_attachments/360006928633/what_makes_a_good_product_image.jpg"
+        },{
+            "id":2,
+            "name":"Samsung m20",
+            "color":"red",
+            "brand":"Mobile",
+            "price":15000,
+            "category":"Samsung",
+            "photo":"https://help.rangeme.com/hc/article_attachments/360006928633/what_makes_a_good_product_image.jpg"
+        },{
+            "id":3,
+            "name":"t-shirt",
+            "color":"Black",
+            "brand":"Nike",
+            "price":1000,
+            "category":"cloth",
+            "photo":"https://help.rangeme.com/hc/article_attachments/360006928633/what_makes_a_good_product_image.jpg"
+        },{
+            "id":4,
+            "name":"Sport shows",
+            "color":"Black and blue",
+            "brand":"Nike",
+            "price":2000,
+            "category":"shows",
+            "photo":"https://help.rangeme.com/hc/article_attachments/360006928633/what_makes_a_good_product_image.jpg"
+        }
+    ]
+}
